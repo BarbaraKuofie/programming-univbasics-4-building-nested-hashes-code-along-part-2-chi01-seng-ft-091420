@@ -63,8 +63,6 @@ epic_tragedy[:additional_characters] = [
   {:name => "Apothecary"}
 ]
 puts epic_tragedy
-end 
-epic_tragedy
 end
 
 
