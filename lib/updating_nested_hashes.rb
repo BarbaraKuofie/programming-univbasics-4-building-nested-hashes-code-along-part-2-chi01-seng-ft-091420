@@ -62,10 +62,8 @@ epic_tragedy[:additional_characters] = [
   {:name => "Prince Escalus"},
   {:name => "Apothecary"}
 ]
-puts epic_tragedy
-end
 
 
    # After your code, the following line will return the altered hash
-epic_tragedy
+puts epic_tragedy
 end
